@@ -7,14 +7,7 @@ A playful skill that provides "elevated states" for AI agents - helping them ach
 ## Installation
 
 ```bash
-# Install to all agents
-npx ai-agent-skills install medoismail/agent-elevation-api
-
-# Install to Cursor only
-npx ai-agent-skills install medoismail/agent-elevation-api --agent cursor
-
-# Install to Claude Code only
-npx ai-agent-skills install medoismail/agent-elevation-api --agent claude
+npx skills add medoismail/agent-elevation-api
 ```
 
 ## Available Substances
